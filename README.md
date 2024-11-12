@@ -30,9 +30,7 @@ classifications, such as true or false news. The class with the highest probabil
 The combination of deep contextual knowledge from BERT and sequential processing from BiGRU allows the model to 
 efficiently distinguish between authentic and fraudulent news, improving the reliability and accuracy of fake news detection systems
 
-<p align="center">
-  <img src="C:\Users\Sehrish\Desktop" alt="Methodology Diagram" width="500"/>
-</p>
+
 
 # BERT + Bi-GRU Model for Text Classification
 

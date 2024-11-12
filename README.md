@@ -31,8 +31,7 @@ The combination of deep contextual knowledge from BERT and sequential processing
 efficiently distinguish between authentic and fraudulent news, improving the reliability and accuracy of fake news detection systems
 
 <p align="center">
-  <img src="![bert+bigrucopy drawio](https://github.com/user-attachments/assets/ecfd4104-e3b4-4e51-95e1-22ec82672cdd)
-" alt="Methodology Diagram" width="500"/>
+  <img src="C:\Users\Sehrish\Desktop" alt="Methodology Diagram" width="500"/>
 </p>
 
 # BERT + Bi-GRU Model for Text Classification

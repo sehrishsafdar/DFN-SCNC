@@ -1,0 +1,9 @@
+pip install torch
+pip install transformers
+numpy==1.23.5
+pandas==1.5.3
+nltk==3.8.1  
+spacy==3.5.2 
+pip install numpy pandas scikit-learn
+pip install datasets
+torchvision==0.15.2

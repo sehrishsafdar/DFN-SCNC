@@ -1,16 +1,14 @@
-DFN-SCNC: Detecting Fake News based on Social Context and News Content: A Hybrid Approach using BERT and Bi-GRU
+# DFN-SCNC: Detecting Fake News based on Social Context and News Content: A Hybrid Approach using BERT and Bi-GRU
 
 
 
-**Dataset**
-
-
+# Dataset
 
 The dataset was gathered using a combination of scraping techniques and tools. Due to the large size of the Facebook data,
 a subset was created please email at sehrishsafdar3@gmail.com for the complete dataset.
 
 
-**Tools and Libraries Used**
+# Tools and Libraries Used
 
 
 **Selenium**: Used to navigate and interact with PolitiFact's website, enabling automated data extraction for posts.
@@ -20,7 +18,7 @@ a subset was created please email at sehrishsafdar3@gmail.com for the complete d
 **Apify**: A powerful tool for scraping comment threads, used to collect all comments associated with each PolitiFact post.
 
 
-**Methodology**
+# Methodology
 
 
 we present the explanation of our proposed DFN-SCNC model. We start by extracting the title and comments from the news.
@@ -33,7 +31,7 @@ The combination of deep contextual knowledge from BERT and sequential processing
 efficiently distinguish between authentic and fraudulent news, improving the reliability and accuracy of fake news detection systems
 
 
-**BERT + Bi-GRU Model for Text Classification**
+# BERT + Bi-GRU Model for Text Classification
 
 
 The Bert+bi-gru.py guides building a BERT + Bi-GRU model for text classification.

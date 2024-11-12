@@ -14,7 +14,9 @@ a subset was created please email at sehrishsafdar3@gmail.com for the complete d
 
 
 **Selenium**: Used to navigate and interact with PolitiFact's website, enabling automated data extraction for posts.
+
 **BeautifulSoup**: Parsed the HTML content collected by Selenium to efficiently extract post details.
+
 **Apify**: A powerful tool for scraping comment threads, used to collect all comments associated with each PolitiFact post.
 
 

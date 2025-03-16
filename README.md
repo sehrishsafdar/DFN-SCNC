@@ -36,7 +36,24 @@ efficiently distinguish between authentic and fraudulent news, improving the rel
 
 
 The Bert+bi-gru.py guides building a BERT + Bi-GRU model for text classification.
-In this process we applying the BERT + Bi-GRU model for classification.
+In this process, we apply the BERT + Bi-GRU model for classification.
+# If you found this repository helpful please cite our paper:
+@inproceedings{safdar2024dfn,
+
+  title={DFN-SCNC: Detecting Fake News based on Social Context and News Content: A Hybrid Approach using BERT and Bi-GRU},
+  
+  author={Safdar, Sehrash and Wasim, Muhammad},
+  
+  booktitle={2024 International Conference on Frontiers of Information Technology (FIT)},
+  
+  pages={1--6},
+  
+  year={2024},
+  
+  organization={IEEE}
+  
+}
+
 
 
 
